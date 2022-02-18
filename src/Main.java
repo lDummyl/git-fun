@@ -15,7 +15,7 @@ public class Main {
 
 
     private void master(){
-
+// TODO: 18.02.2022 1
     }
 
 }
