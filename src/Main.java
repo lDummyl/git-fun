@@ -8,4 +8,11 @@ public class Main {
         // TODO: 18.02.2022 one 4
         // TODO: 18.02.2022 4
     }
+
+
+
+    private void master(){
+
+    }
+
 }
