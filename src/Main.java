@@ -21,6 +21,7 @@ public class Main {
     private void master(){
 // TODO: 18.02.2022 1
 // TODO: 18.02.2022 2
+// TODO: 18.02.2022 2
     }
 
 }
